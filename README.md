@@ -8,7 +8,7 @@ This project explores customer and subscription data for a fictional telecommuni
 The analysis was carried out in **PostgreSQL using pgAdmin 4**. It demonstrates how relational data can be queried and transformed into useful information for business decision-making.
 
 ## SQL Query Images
-
+![SQL code in pgAdmin](images/pgadmin_sql_code.png)
 
 ## Business Objectives
 
