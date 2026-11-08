@@ -7,8 +7,8 @@ This project explores customer and subscription data for a fictional telecommuni
 
 The analysis was carried out in **PostgreSQL using pgAdmin 4**. It demonstrates how relational data can be queried and transformed into useful information for business decision-making.
 
-## SQL Query Images
-![Naija_Telecommunications_Limited](images/Screenshot%2026-11-08%203621.png)
+## SQL Query Image
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/RAPHAEL/Documents/Data%20Analytics/Project/Naija_telecoms_sql/Screenshot%202026-11-08%20203621.png" width="811" height="455">
 
 ## Business Objectives
 
@@ -114,7 +114,7 @@ The screenshots below show selected SQL queries executed in pgAdmin 4. They are 
 | `customers.csv` | Customer dataset used in the project. |
 | `Naija_Telecom_Management_Report_v4.docx` | Management report presenting the analysis findings and recommendations. |
 | `Screenshot 2026-11-08 203621.png` | Screenshot of SQL queries in pgAdmin 4. |
-| `Screenshot 2026-11-08 203742.png` | Screenshot of SQL queries in pgAdmin 4. |
+
 
 ## How to Use This Project
 
